@@ -1,0 +1,7 @@
+.ui-datepicker-calendar tr td.state-disabled{
+	opacity: .35;
+}
+.state-disabled {
+    cursor: default !important;
+}
+
