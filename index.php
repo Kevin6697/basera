@@ -239,8 +239,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</div><!-- .collapse.navbar-collapse -->
 						</div><!-- .container -->
 					</nav><!-- .navbar.navbar-default.htlfndr-blue-hover-nav -->
-				</div><!-- .htlfndr-under-header -->
-				<!-- End of main navigation -->
+				</div>
 				
 				<!-- Start of slider section -->
 				<section class="htlfndr-slider-section">
